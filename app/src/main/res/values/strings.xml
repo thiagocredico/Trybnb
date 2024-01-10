@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trybnb</string>
+    <string name="login_success_message">Login feito com sucesso!</string>
+    <string name="criar_reserva">Criar Reserva</string>
+    <string name="nome_do_hospede">Nome do hóspede</string>
+    <string name="sobrenome_do_hospede">Sobrenome do hóspede</string>
+    <string name="checkin">Checkin</string>
+    <string name="checkout">Checkout</string>
+    <string name="necessidades_adicionais">Necessidades adicionais</string>
+    <string name="preco_total">Preço total</string>
+    <string name="deposito_pago">Depósito Pago</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="person_image_profile">person_image_profile</string>
+    <string name="rs">R$</string>
+    <string name="informacoes_adicionais">Informações Adicionais</string>
+    <string name="reservas">Reservas</string>
+    <string name="criar_reservas">Criar Reservas</string>
+    <string name="perfil">Perfil</string>
+    <string name="login_feito_com_sucesso">Login feito com sucesso!</string>
+    <string name="password_error">O campo Password é obrigatório</string>
+    <string name="login_error">O campo Login é obrigatório</string>
+    <string name="reserva_feita_com_sucesso">Reserva feita com sucesso!</string>
+    <string name="error_message">Erro ao criar a reserva: %1$s</string>
+    <string name="success_message">Reserva feita com sucesso!</string>
+</resources>

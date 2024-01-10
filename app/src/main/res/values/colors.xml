@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navigation">#3C5A4E</color>
+    <color name="depositpaid">#92FD8A</color>
+    <color name="not_depositpaid">#FD8A8A</color>
+</resources>
